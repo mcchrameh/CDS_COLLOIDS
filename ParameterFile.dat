@@ -1,0 +1,67 @@
+  Nx
+128
+  Ny
+128 
+  X_cores
+2
+  Y_cores
+2
+  Nbig
+10
+  Nsmall
+0
+  Nparticles
+10
+  M
+1.0
+  u
+0.38
+  B
+0.02
+  D
+0.5
+  A
+1.5
+  v
+2.3
+  tau
+0.36
+  F
+0.5
+  r
+0.5
+  Max_time_iteration
+1000.0
+ U1 -initial energy
+1.0
+ CSI
+1.0
+ ENNE
+0.0
+ alpha
+1.0
+ beta
+0.0
+ GAMMs
+10.0
+ GAMMb
+25.0
+ temp1
+1.0
+ R1small
+1.0
+ R1big
+2.5
+ ALP1
+2.0
+ dxx
+1.0
+ EMME
+0.1
+ sigma
+1.0
+ P00s
+0.0
+ P00b
+0.5
+
